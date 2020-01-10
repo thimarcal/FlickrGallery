@@ -9,7 +9,7 @@ import thiago.flickr.gallery.data.model.Photo
 interface PhotoDao {
 
     @Insert(onConflict = REPLACE)
-    fun savePhoto(photo: Photo)
+    suspend fun savePhoto(photo: Photo)
 
     @Query("DELETE from photo")
     fun deleteAll()

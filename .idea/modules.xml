@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlickrGallery-Gallery.iml" filepath="$PROJECT_DIR$/FlickrGallery-Gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/FlickrGallery-app.iml" filepath="$PROJECT_DIR$/app/FlickrGallery-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gallery.iml" filepath="$PROJECT_DIR$/Gallery.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinderaChallenge-Gallery.iml" filepath="$PROJECT_DIR$/MinderaChallenge-Gallery.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/MinderaChallenge-app.iml" filepath="$PROJECT_DIR$/app/MinderaChallenge-app.iml" />
