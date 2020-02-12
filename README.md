@@ -1,6 +1,6 @@
 # Challenge
 
-This app was developed by Thiago Gomes Marçal Pereira as a challenge for an Android position
+This app was developed by Thiago Gomes Marçal Pereira 
 
 ## Flickr Gallery
 
